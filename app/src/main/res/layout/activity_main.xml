@@ -11,16 +11,17 @@
 
     <TextView
         android:id="@+id/textView1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="222dp"
+        android:layout_height="81dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_marginLeft="78dp"
-        android:layout_marginTop="86dp"
-        android:text="WEL-COME"
-        android:textColor="#ffff00"
-        android:textStyle="italic"
-        android:textAppearance="?android:attr/textAppearanceLarge" />
+        android:layout_marginStart="194dp"
+        android:layout_marginLeft="89dp"
+        android:layout_marginTop="141dp"
+        android:text="Welcome"
+        android:textAppearance="@android:style/TextAppearance.Material.Display1"
+        android:textColor="#FFFFFF"
+        android:textStyle="italic" />
 
     <Button
         android:id="@+id/buttonstart"
